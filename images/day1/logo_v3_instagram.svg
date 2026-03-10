@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0d0d"/>
+      <stop offset="100%" style="stop-color:#1a1a1a"/>
+    </linearGradient>
+  </defs>
+  
+  <rect width="200" height="200" fill="url(#bg)"/>
+  
+  <rect x="20" y="30" width="160" height="140" fill="none" stroke="#fff" stroke-width="0.5" opacity="0.2"/>
+  <rect x="23" y="33" width="154" height="134" fill="none" stroke="#c41e3a" stroke-width="1"/>
+  
+  <line x1="30" y1="42" x2="30" y2="158" stroke="#c41e3a" stroke-width="2"/>
+  <line x1="170" y1="42" x2="170" y2="158" stroke="#c41e3a" stroke-width="2"/>
+  
+  <text x="100" y="70" font-family="Georgia, serif" font-size="22" font-style="italic" fill="#fff" text-anchor="middle" letter-spacing="6">OURS</text>
+  
+  <line x1="50" y1="82" x2="150" y2="82" stroke="#c41e3a" stroke-width="0.5" opacity="0.6"/>
+  
+  <text x="100" y="125" font-family="'MS Mincho', serif" font-size="32" font-weight="bold" fill="#fff" text-anchor="middle" letter-spacing="4">麻辣湯</text>
+  
+  <circle cx="100" cy="140" r="3" fill="#c41e3a"/>
+</svg>

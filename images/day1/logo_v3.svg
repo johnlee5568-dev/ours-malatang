@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0d0d"/>
+      <stop offset="100%" style="stop-color:#1a1a1a"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="400" height="400" fill="url(#bg)"/>
+  
+  <!-- Main sign area -->
+  <rect x="40" y="60" width="320" height="280" fill="none" stroke="#fff" stroke-width="1" opacity="0.2"/>
+  <rect x="45" y="65" width="310" height="270" fill="none" stroke="#c41e3a" stroke-width="2"/>
+  
+  <!-- Red decorative lines (like on the actual sign) -->
+  <line x1="55" y1="80" x2="55" y2="320" stroke="#c41e3a" stroke-width="3"/>
+  <line x1="345" y1="80" x2="345" y2="320" stroke="#c41e3a" stroke-width="3"/>
+  
+  <!-- OURS text (top, like sign) -->
+  <text x="200" y="140" font-family="Georgia, serif" font-size="42" font-style="italic" fill="#fff" text-anchor="middle" letter-spacing="12">OURS</text>
+  
+  <!-- Divider line -->
+  <line x1="100" y1="160" x2="300" y2="160" stroke="#c41e3a" stroke-width="1" opacity="0.6"/>
+  
+  <!-- 麻辣湯 (main text) -->
+  <text x="200" y="240" font-family="'MS Mincho', 'Hiragino Mincho ProN', serif" font-size="64" font-weight="bold" fill="#fff" text-anchor="middle" letter-spacing="8">麻辣湯</text>
+  
+  <!-- Small red accent -->
+  <circle cx="200" cy="270" r="4" fill="#c41e3a"/>
+</svg>
