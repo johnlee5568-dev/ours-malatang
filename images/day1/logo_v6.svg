@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="red" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e63946"/>
+      <stop offset="100%" style="stop-color:#c41e3a"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Background image -->
+  <image xlink:href="logo_bg.jpg" x="0" y="0" width="400" height="400" preserveAspectRatio="xMidYMid slice"/>
+  
+  <!-- Dark overlay for readability -->
+  <rect width="400" height="400" fill="#000" opacity="0.3"/>
+  
+  <!-- Red circle -->
+  <circle cx="200" cy="170" r="70" fill="none" stroke="url(#red)" stroke-width="4"/>
+  <circle cx="200" cy="170" r="63" fill="none" stroke="#fff" stroke-width="1" opacity="0.5"/>
+  
+  <!-- OURS in circle -->
+  <text x="200" y="188" font-family="Georgia, serif" font-size="40" font-weight="bold" fill="#fff" text-anchor="middle" letter-spacing="3">OURS</text>
+  
+  <!-- Red horizontal line -->
+  <line x1="100" y1="270" x2="300" y2="270" stroke="url(#red)" stroke-width="2"/>
+  
+  <!-- 麻辣湯 -->
+  <text x="200" y="315" font-family="'MS Mincho', 'Hiragino Mincho ProN', serif" font-size="42" font-weight="bold" fill="#fff" text-anchor="middle" letter-spacing="3">麻辣湯</text>
+  
+  <!-- Small decorative dots -->
+  <circle cx="80" cy="270" r="3" fill="url(#red)"/>
+  <circle cx="320" cy="270" r="3" fill="url(#red)"/>
+</svg>

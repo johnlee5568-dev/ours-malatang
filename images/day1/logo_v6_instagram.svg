@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="red" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e63946"/>
+      <stop offset="100%" style="stop-color:#c41e3a"/>
+    </linearGradient>
+  </defs>
+  
+  <image xlink:href="logo_bg.jpg" x="0" y="0" width="200" height="200" preserveAspectRatio="xMidYMid slice"/>
+  
+  <rect width="200" height="200" fill="#000" opacity="0.3"/>
+  
+  <circle cx="100" cy="85" r="35" fill="none" stroke="url(#red)" stroke-width="2"/>
+  <circle cx="100" cy="85" r="31" fill="none" stroke="#fff" stroke-width="0.5" opacity="0.5"/>
+  
+  <text x="100" y="95" font-family="Georgia, serif" font-size="20" font-weight="bold" fill="#fff" text-anchor="middle" letter-spacing="2">OURS</text>
+  
+  <line x1="50" y1="135" x2="150" y2="135" stroke="url(#red)" stroke-width="1"/>
+  
+  <text x="100" y="157" font-family="'MS Mincho', serif" font-size="22" font-weight="bold" fill="#fff" text-anchor="middle" letter-spacing="2">麻辣湯</text>
+  
+  <circle cx="40" cy="135" r="2" fill="url(#red)"/>
+  <circle cx="160" cy="135" r="2" fill="url(#red)"/>
+</svg>
