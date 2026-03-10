@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="400" viewBox="0 0 400 400">
+  <!-- Background image only -->
+  <image xlink:href="logo_bg.jpg" x="0" y="0" width="400" height="400" preserveAspectRatio="xMidYMid slice"/>
+  
+  <!-- OURS in red, moved up -->
+  <text x="200" y="170" font-family="Georgia, serif" font-size="42" font-weight="bold" fill="#c41e3a" text-anchor="middle" letter-spacing="3">OURS</text>
+  
+  <!-- 麻辣湯 -->
+  <text x="200" y="290" font-family="'MS Mincho', 'Hiragino Mincho ProN', serif" font-size="42" font-weight="bold" fill="#fff" text-anchor="middle" letter-spacing="3">麻辣湯</text>
+</svg>
