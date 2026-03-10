@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "skills": {
+    "image-edit": {
+      "version": "1.0.0",
+      "installedAt": 1772945516181
+    },
+    "video-edit": {
+      "version": "1.0.0",
+      "installedAt": 1772945523088
+    },
+    "ffmpeg-cli": {
+      "version": "1.0.0",
+      "installedAt": 1772945525492
+    },
+    "design-assets": {
+      "version": "1.0.0",
+      "installedAt": 1772945527292
+    },
+    "graphic-design": {
+      "version": "1.0.0",
+      "installedAt": 1772945529122
+    },
+    "self-improving": {
+      "version": "1.2.10",
+      "installedAt": 1772945534417
+    },
+    "tavily": {
+      "version": "1.0.0",
+      "installedAt": 1772945535904
+    },
+    "gog": {
+      "version": "1.0.0",
+      "installedAt": 1772945537410
+    },
+    "find-skills": {
+      "version": "0.1.0",
+      "installedAt": 1772945539038
+    },
+    "summarize": {
+      "version": "1.0.0",
+      "installedAt": 1772945540575
+    },
+    "baoyu-image-gen": {
+      "version": "1.0.0",
+      "installedAt": 1773068301612
+    }
+  }
+}
