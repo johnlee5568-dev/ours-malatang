@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0d0d"/>
+      <stop offset="100%" style="stop-color:#1a1a1a"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="400" height="400" fill="url(#bg)"/>
+  
+  <!-- Outer decorative border -->
+  <rect x="30" y="30" width="340" height="340" fill="none" stroke="#c41e3a" stroke-width="2"/>
+  <rect x="40" y="40" width="320" height="320" fill="none" stroke="#fff" stroke-width="0.5" opacity="0.3"/>
+  
+  <!-- Red circle -->
+  <circle cx="200" cy="150" r="75" fill="none" stroke="#c41e3a" stroke-width="4"/>
+  <circle cx="200" cy="150" r="68" fill="none" stroke="#fff" stroke-width="1" opacity="0.4"/>
+  
+  <!-- OURS in circle -->
+  <text x="200" y="165" font-family="Georgia, serif" font-size="42" font-weight="bold" fill="#fff" text-anchor="middle" letter-spacing="4">OURS</text>
+  
+  <!-- Red horizontal line -->
+  <line x1="100" y1="250" x2="300" y2="250" stroke="#c41e3a" stroke-width="2"/>
+  
+  <!-- 麻辣湯 -->
+  <text x="200" y="300" font-family="'MS Mincho', 'Hiragino Mincho ProN', serif" font-size="48" font-weight="bold" fill="#fff" text-anchor="middle" letter-spacing="4">麻辣湯</text>
+  
+  <!-- MALA TANG English below -->
+  <text x="200" y="335" font-family="Georgia, serif" font-size="14" fill="#c41e3a" text-anchor="middle" letter-spacing="6">MALA TANG</text>
+  
+  <!-- Small decorative dots -->
+  <circle cx="80" cy="250" r="3" fill="#c41e3a"/>
+  <circle cx="320" cy="250" r="3" fill="#c41e3a"/>
+</svg>
