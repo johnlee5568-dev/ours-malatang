@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0d0d"/>
+      <stop offset="100%" style="stop-color:#1a1a1a"/>
+    </linearGradient>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@700&amp;display=swap');
+    </style>
+  </defs>
+  
+  <rect width="200" height="200" fill="url(#bg)"/>
+  <rect x="15" y="15" width="170" height="170" fill="none" stroke="#c41e3a" stroke-width="1"/>
+  
+  <circle cx="100" cy="65" r="28" fill="none" stroke="#c41e3a" stroke-width="2"/>
+  <text x="100" y="75" font-family="Georgia, sans-serif" font-size="16" font-weight="bold" fill="#fff" text-anchor="middle">OURS</text>
+  
+  <text x="100" y="125" font-family="'Noto Serif JP', serif" font-size="28" font-weight="bold" fill="#fff" text-anchor="middle">麻辣湯</text>
+  
+  <text x="100" y="150" font-family="Arial, sans-serif" font-size="9" fill="#c41e3a" text-anchor="middle" letter-spacing="3">MALA TANG</text>
+  
+  <circle cx="40" cy="125" r="2" fill="#c41e3a"/>
+  <circle cx="160" cy="125" r="2" fill="#c41e3a"/>
+</svg>
